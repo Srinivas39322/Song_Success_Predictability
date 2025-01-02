@@ -1,12 +1,4 @@
-# Team4Project_DATS6103_10
 
-# Team 4
-
-Team Members:
-- Ashwin Muthuraman
-- Srinivas Saiteja
-- Kanishk Goel
-- Ram Mannuru
 
 ## Research Topic
 
