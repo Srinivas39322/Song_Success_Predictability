@@ -1,5 +1,3 @@
-# Team4Project_DATS6103_10
-
 # Team 4
 
 Team Members:
